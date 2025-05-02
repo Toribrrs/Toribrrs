@@ -8,7 +8,7 @@
 <p align="center">
 
 🎓 Sou graduanda em Engenharia Química pela UFRJ, apaixonada pela interseção entre engenharia, tecnologia e inovação. Ao longo da minha trajetória, venho desenvolvendo soluções que unem programação, análise de dados e conhecimento técnico para gerar impacto no setor químico e industrial.
- Hoje, sou estagiária em desenvolvimento na Safe Solutions e meu objetivo é integrar engenharia, tecnologia e sustentabilidade para desenvolver soluções inteligentes e eficientes para o setor industrial.
+ Hoje, sou estagiária em programação na Safe Solutions e meu objetivo é integrar engenharia e tecnologia para desenvolver soluções inteligentes e eficientes para o setor químico-industrial.
 </p>
 
 ---
