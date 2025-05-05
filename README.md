@@ -18,7 +18,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toribrrs&show_icons=true&theme=radical&cache_seconds=30"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toribrrs&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toribrrs&layout=compact&theme=radical&cache_seconds=30" />
 </p>
 
 ---
